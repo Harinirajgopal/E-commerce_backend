@@ -1,0 +1,104 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items1.png",
+      "title": "Gas stove",
+      "price": 1200,
+      "Quantity": 1
+    },
+    {
+      "id": 2,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items2.png",
+      "title": "Microwave oven",
+      "price": 1500,
+      "Quantity": 1
+    },
+    {
+      "id": 3,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items3.png",
+      "title": "Pan",
+      "price": 500,
+      "Quantity": 1
+    },
+    {
+      "id": 4,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items4.png",
+      "title": "Pressure Cooker",
+      "price": 800,
+      "Quantity": 1
+    },
+    {
+      "id": 5,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items5.png",
+      "title": "spoon",
+      "price": 100,
+      "Quantity": 1
+    },
+    {
+      "id": 6,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items6.png",
+      "title": "Fork Spoon",
+      "price": 120,
+      "Quantity": 1
+    },
+    {
+      "id": 7,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items8.png",
+      "title": "Chopping board",
+      "price": 70,
+      "Quantity": 1
+    },
+    {
+      "id": 8,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items9.png",
+      "title": "Glasses",
+      "price": 150,
+      "Quantity": 1
+    },
+    {
+      "id": 9,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items10.png",
+      "title": "Juicer",
+      "price": 250,
+      "Quantity": 1
+    }
+  ],
+  "AddedCart": [
+    {
+      "id": 4,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items4.png",
+      "title": "Pressure Cooker",
+      "price": 800,
+      "Quantity": 1
+    },
+    {
+      "id": 9,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items10.png",
+      "title": "Juicer",
+      "price": 250,
+      "Quantity": 1
+    },
+    {
+      "id": 1,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items1.png",
+      "title": "Gas stove",
+      "price": 1200,
+      "Quantity": 1
+    },
+    {
+      "id": 7,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items8.png",
+      "title": "Chopping board",
+      "price": 70,
+      "Quantity": 1
+    },
+    {
+      "id": 3,
+      "Img": "https://static.javatpoint.com/list/images/list-of-kitchen-items3.png",
+      "title": "Pan",
+      "price": 500,
+      "Quantity": 1
+    }
+  ]
+}
